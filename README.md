@@ -71,6 +71,14 @@ This component is developed by th using Fast.<br>EyeLoader that creates and mana
 
 ![blocks](https://github.com/user-attachments/assets/c539dad8-f291-4773-8325-c006c292f379)
 
+![444329e3-4c43-4b37-97ce-713c6dfc2a07.gif](https://github.com/user-attachments/assets/ea2e5f10-8a41-4820-b182-51b5793d7f63)
+
+![ebaa2d42-0af8-4729-83d5-a9f427f284cb.gif](https://github.com/user-attachments/assets/7a611dd2-0b6b-462d-910a-f4ec88b2ac8c)
+
+![Screenshot_2025-04-05-07-01-24-379_appinventor.ai_Techhamara91.eye.jpg](https://github.com/user-attachments/assets/2af88fcc-1a6f-4980-9a06-98aa1ffeaf36)
+
+
+
 
 ## <kbd>Events:</kbd>
 **EyeLoader** has total 4 events.
