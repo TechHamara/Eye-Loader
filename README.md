@@ -10,12 +10,40 @@ This component is developed by th using Fast.<br>EyeLoader that creates and mana
 ## 📝 Specifications
 * **
 📦 **Package:** io.th.eyeloader.eyeloader<br>
-💾 **Size:** 17.96 KB<br>
+💾 **Size:** 25.10 KB<br>
 ⚙️ **Version:** 1.0<br>
 📱 **Minimum API Level:** 7<br>
 📅 **Updated On:** [date=2025-04-04 timezone="Asia/Calcutta"]<br>
 💻 **Built & documented using:** [FAST-CLI](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) `v2.8.1`
 <br>
+
+>V1.2 Update [date=2025-04-05 timezone="Asia/Calcutta"]
+> ### 💜 IrisShape
+>Set the iris shape for both eyes. Available shapes: ELLIPSE, CIRCLE, TRIANGLE, TRAPEZIUM, LEAF, RHOMBUS, HEART_I, HEART_II, DROP, STAR, STAR_II, >DIAMOND, PENTAGON
+> ### 🟢 IrisColor
+>Get the iris color for both eyes
+>* Return type: `number`
+>### 🟢 PupilColor
+>Get the pupil color for both eyes
+>* Return type: `number`
+>### 🟢 SadExpression
+>Check if expression is sad
+>* Return type: `boolean`
+>### 🟢 HappyExpression
+>Check if expression is happy
+>* Return type: `boolean`
+>### 🟢 AngryExpression
+>Check if expression is angry
+>* Return type: `boolean`
+>### 🟢 SurprisedExpression
+>Check if expression is surprised
+>* Return type: `boolean`
+> ### 💚 TeethShape
+>Set the teeth shape (ROUND or ZIGZAG)
+>* Input type: `text`
+>* Helper class: `TeethStyle`
+>* Helper enums: `ROUND`, `ZIGZAG`
+
 
 ## Blocks
 
@@ -25,6 +53,10 @@ This component is developed by th using Fast.<br>EyeLoader that creates and mana
 ![EyesMoved_Event](https://github.com/user-attachments/assets/3cf93879-40ae-46a5-896f-62335b63aa99)
 
 -----
+
+>New Functions Added
+
+>![IrisShape_Method](https://github.com/user-attachments/assets/5b000cca-0c6f-4f95-ad6c-36108a5e92b0)
 
 ![LookAt_Method](https://github.com/user-attachments/assets/18857b6c-ed99-4888-968e-339ab4ad4ffe)
 ![LeftEyeSize_Method](https://github.com/user-attachments/assets/417b44ff-54de-4f40-98cd-5fd4a6e781e6)
@@ -66,6 +98,17 @@ This component is developed by th using Fast.<br>EyeLoader that creates and mana
 ![LeftEyeColor_Get_Property](https://github.com/user-attachments/assets/9ab426b5-1988-4d25-9f69-89b2f1653d2e)
 ![IrisColor_Set_Property](https://github.com/user-attachments/assets/bf54aa2e-7e44-49dd-89c4-9216d5337431)
 ![EyeWidth_Set_Property](https://github.com/user-attachments/assets/134e8e36-61fd-40d4-8f74-0d2057fc8e22)
+
+>New Functions Added
+
+>![SadExpression_Get_Property](https://github.com/user-attachments/assets/667bc79f-e1e2-4413-b5a3-55f9356f4973)
+![PupilColor_Get_Property](https://github.com/user-attachments/assets/81fb4e74-f727-4b16-a243-77a6386f2885)
+![IrisColor_Get_Property](https://github.com/user-attachments/assets/680ea824-8b3a-40b3-a1ac-6e8751507c07)
+![HappyExpression_Get_Property](https://github.com/user-attachments/assets/009b9420-a82c-43bf-9b80-7520cade5ca4)
+![AngryExpression_Get_Property](https://github.com/user-attachments/assets/fefd3322-c187-4370-975c-c93f65a698b4)
+![TeethShape_Set_Property](https://github.com/user-attachments/assets/cd511af5-7224-48c6-8cd6-bf14d82c57c5)
+![SurprisedExpression_Get_Property](https://github.com/user-attachments/assets/4a2d1da2-5d1f-439d-8b9b-e3b707dfc40a)
+
 
 ## Demo
 
