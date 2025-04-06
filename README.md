@@ -17,6 +17,23 @@ This component is developed by th using Fast.<br>EyeLoader that creates and mana
 💻 **Built & documented using:** [FAST-CLI](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) `v2.8.1`
 <br>
 
+>New Update
+>V1.3 (06-04-2025)
+>
+>![ShowStatusBar_Set_Property](https://github.com/user-attachments/assets/a85d1738-67bc-4434-9cb9-b03a15e1ca80)
+>### 💚 ShowStatusBar
+Set the visibility of the status bar
+
+* Input type: `boolean`
+  
+>![ShowNavigationBar_Set_Property](https://github.com/user-attachments/assets/a8d245df-a099-446d-9757-0531580c3a85)
+### 💚 ShowNavigationBar
+Set the visibility of the navigation bar
+
+* Input type: `boolean`
+
+-----
+  
 >V1.2 Update [date=2025-04-05 timezone="Asia/Calcutta"]
 > ### 💜 IrisShape
 >Set the iris shape for both eyes. Available shapes: ELLIPSE, CIRCLE, TRIANGLE, TRAPEZIUM, LEAF, RHOMBUS, HEART_I, HEART_II, DROP, STAR, STAR_II, >DIAMOND, PENTAGON
