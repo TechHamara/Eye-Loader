@@ -132,6 +132,7 @@ Set the visibility of the navigation bar
 >V1.3
 
 >![blocksV1 3](https://github.com/user-attachments/assets/22d667c5-bdbd-4667-adc8-2092b2be59d1)
+![Screen2blocks](https://github.com/user-attachments/assets/f0386c08-30df-4c63-b629-9e57bc0b719f)
 
 ![blocks](https://github.com/user-attachments/assets/c539dad8-f291-4773-8325-c006c292f379)
 
