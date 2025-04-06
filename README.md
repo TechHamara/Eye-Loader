@@ -130,6 +130,7 @@ Set the visibility of the navigation bar
 ## Demo
 
 >V1.3
+
 >![blocksV1 3](https://github.com/user-attachments/assets/22d667c5-bdbd-4667-adc8-2092b2be59d1)
 
 ![blocks](https://github.com/user-attachments/assets/c539dad8-f291-4773-8325-c006c292f379)
